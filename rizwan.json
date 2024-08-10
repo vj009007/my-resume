@@ -1,0 +1,113 @@
+{
+  "name": "Mohd Rizwan",
+  "title": "UI Developer",
+  "location": "Noida",
+  "contact": {
+    "email": "therizwan027@gmail.com",
+    "phone": "8057872774",
+    "linkedin": "linkedin.com/in/the-rizwan-shaikh",
+    "portfolio": "https://rizwan-ui.vercel.app/"
+  },
+  "profile": "Experienced UI Developer with 4 years of hands-on expertise in front-end web development. Proficient in HTML, CSS, JavaScript, and various frameworks including jQuery, Bootstrap, Tailwind CSS, and React.js. Skilled in converting design concepts into responsive and interactive user interfaces. Experienced in WordPress development and integrating advanced custom fields (ACF). Strong understanding of UI/UX principles and adept at translating client requirements into functional web solutions.",
+  "education": [
+    {
+      "degree": "Bachelor of Arts",
+      "institution": "Mahatma Jyotiba Phule Rohilkhand University",
+      "duration": "July 2018 – June 2021"
+    }
+  ],
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React.js",
+    "Tailwind CSS",
+    "jQuery",
+    "Bootstrap",
+    "Responsive Web Design",
+    "Figma to HTML",
+    "Redux",
+    "PSD to HTML",
+    "Material UI",
+    "XD to HTML",
+    "Photoshop",
+    "SASS",
+    "WordPress",
+    "UI/UX",
+    "WordPress ACF"
+  ],
+  "experience": [
+    {
+      "position": "HTML Developer",
+      "company": "Brandconn Digital Pvt Ltd",
+      "duration": "April 2023 – July 2024",
+      "responsibilities": [
+        "Developed responsive and user-friendly interfaces using HTML, CSS, JavaScript, and frameworks like Bootstrap and Tailwind CSS.",
+        "Translated UI/UX design wireframes into code, ensuring high performance and cross-browser compatibility."
+      ]
+    },
+    {
+      "position": "UI Developer",
+      "company": "Strawberri World Solutions Private Limited",
+      "duration": "July 2020 – April 2023",
+      "responsibilities": [
+        "Created and maintained web applications using modern front-end technologies, including React.js.",
+        "Enhanced website performance and user experience through optimized code and responsive design.",
+        "Participated in code reviews and team meetings to ensure project alignment and knowledge sharing."
+      ]
+    },
+    {
+      "position": "Front-end Developer",
+      "company": "Dice Academy",
+      "duration": "January 2020 – July 2020",
+      "responsibilities": [
+        "Assisted in the development of interactive and responsive websites.",
+        "Gained hands-on experience with HTML, CSS, JavaScript, and various front-end frameworks.",
+        "Collaborated with senior developers to improve code quality and adhere to best practices.",
+        "Contributed to the design and development of educational web projects."
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "course": "O'Level",
+      "institution": "National Institute of Electronics and Information Technology"
+    },
+    {
+      "course": "Web Developer",
+      "institution": "Dice Academy"
+    }
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Urdu"
+  ],
+  "projects": [
+    {
+      "name": "SnowDome",
+      "description": "Developed and maintained the official website using HTML, CSS, and JavaScript. Implemented responsive design principles for optimal viewing across various devices. Integrated custom features and animations to enhance user engagement.",
+      "link": "https://www.snowdome.co.uk/"
+    },
+    {
+      "name": "Centrical",
+      "description": "Contributed to the front-end development of the corporate website. Utilized WordPress and advanced custom fields to manage content and functionality. Ensured the website met performance and SEO standards for improved visibility.",
+      "link": "https://centrical.com/"
+    },
+    {
+      "name": "BTC Car Rental Program",
+      "description": "Designed and developed the website UI using React.js to enhance user experience and functionality. Integrated advanced booking and reservation systems. Improved site navigation and user experience through intuitive design.",
+      "link": "https://www.btcrentacar.com.tr/"
+    },
+    {
+      "name": "CrediBlock A NFT Project",
+      "description": "Completed the user interface using Tailwind CSS in Next.js. Assisted in the front-end development, ensuring responsive design and performance.",
+      "link": "https://crediblocktest.vercel.app/"
+    },
+    {
+      "name": "A Hotel Website",
+      "description": "Created a user-friendly interface for the hotel booking website. Ensured seamless navigation and responsive design.",
+      "link": "https://shorebirdshotels.com/"
+    }
+  ]
+}
