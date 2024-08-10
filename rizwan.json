@@ -8,7 +8,7 @@
     "linkedin": "linkedin.com/in/the-rizwan-shaikh",
     "portfolio": "https://rizwan-ui.vercel.app/"
   },
-  "profile": "Experienced UI Developer with 4 years of hands-on expertise in front-end web development. Proficient in HTML, CSS, JavaScript, and various frameworks including jQuery, Bootstrap, Tailwind CSS, and React.js. Skilled in converting design concepts into responsive and interactive user interfaces. Experienced in WordPress development and integrating advanced custom fields (ACF). Strong understanding of UI/UX principles and adept at translating client requirements into functional web solutions.",
+  "profile": "Experienced UI Developer with 4 years of hands-on expertise in front-end web development. Proficient in HTML, CSS, JavaScript, and various frameworks including jQuery, Bootstrap, Tailwind CSS, React.js , and Angular . Skilled in converting design concepts into responsive and interactive user interfaces. Experienced in WordPress development and integrating advanced custom fields (ACF). Strong understanding of UI/UX principles and adept at translating client requirements into functional web solutions.",
   "education": [
     {
       "degree": "Bachelor of Arts",
@@ -21,14 +21,17 @@
     "CSS",
     "JavaScript",
     "React.js",
+    "Angular",
+    "Material UI",
+    "Angular Material",
     "Tailwind CSS",
+    "Typescript",
     "jQuery",
     "Bootstrap",
     "Responsive Web Design",
     "Figma to HTML",
     "Redux",
     "PSD to HTML",
-    "Material UI",
     "XD to HTML",
     "Photoshop",
     "SASS",
@@ -43,7 +46,8 @@
       "duration": "April 2023 – July 2024",
       "responsibilities": [
         "Developed responsive and user-friendly interfaces using HTML, CSS, JavaScript, and frameworks like Bootstrap and Tailwind CSS.",
-        "Translated UI/UX design wireframes into code, ensuring high performance and cross-browser compatibility."
+        "Translated UI/UX design wireframes into code, ensuring high performance and cross-browser compatibility.",
+        "Developing a web application for office work using Angular."
       ]
     },
     {
